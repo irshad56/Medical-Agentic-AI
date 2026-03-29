@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 data/images/*project_root/.env 
+project_root/.env 
