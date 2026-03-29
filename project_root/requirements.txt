@@ -1,0 +1,12 @@
+langchain
+langgraph
+groq
+fastapi
+uvicorn
+streamlit
+pillow
+opencv-python
+torch
+torchvision
+matplotlib
+python-dotenv
