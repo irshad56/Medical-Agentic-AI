@@ -36,7 +36,7 @@ if "last_viz" not in st.session_state:
 if "current_image_path" not in st.session_state:
     st.session_state.current_image_path = None
 
-st.title("🩺 Medical Agentic OS v2.0")
+st.title("🩺 Medical Agentic AI v2.0")
 st.caption("Powered by Swin Transformer & Llama-3 Reasoning Agents")
 
 # --- SIDEBAR CONTROL PANEL ---
