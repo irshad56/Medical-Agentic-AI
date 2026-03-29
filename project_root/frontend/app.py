@@ -14,7 +14,7 @@ from backend.graph.langgraph_flow import run_pipeline
 
 # Page Configuration
 st.set_page_config(
-    page_title="Medical Agentic OS v2.0",
+    page_title="Medical Agentic AI v2.0",
     page_icon="🩺",
     layout="wide",
     initial_sidebar_state="expanded"
