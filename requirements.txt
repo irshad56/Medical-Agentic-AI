@@ -11,5 +11,7 @@ pillow
 opencv-python-headless
 torch
 torchvision
+timm
 matplotlib
 numpy
+scipy
